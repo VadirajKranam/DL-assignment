@@ -14,3 +14,7 @@ Example: In convolution
 
 Problem:
 Build a CNN for image classification on the CIFAR-10 dataset, a dataset of 60,000 32x32 color images in 10 different classes. We will explore parameter sharing in the convolutional layers to improve model efficiency.
+
+
+Name: Vadiraj Karanam
+USN: 4NI20IS123
